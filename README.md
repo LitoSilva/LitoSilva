@@ -3,8 +3,7 @@
 🇧🇷
 
 <div>
-  <a href="https://github.com/LitoSilva>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?LitoSilva=anuraghazra&show_icons=true&theme=radical">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LitoSilva=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 <!--
