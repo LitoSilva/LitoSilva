@@ -1,11 +1,36 @@
 # Sou <span style="color:red;">joselito da silva </span>   estudante de engenharia de software
-💻
-🇧🇷
 
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LitoSilva&show_icons=true&theme=radical)
-</div>
+---
+### 💻  Linguagem e Tecnologia
+<img
+	align="left"
+	alt="HTML"
+	title="HTML"
+	width="40px"
+	style="padding-right:10px;"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
+ 
+<img 
+	align="left"
+	alt="CSS3"
+	title="CSS3"
+	width="40px"
+	style="padding-right:10px;border: 2px solid white;"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />         
 
+<img 
+	align="left"
+	alt="EXPRESS"
+	title="EXPRESS"
+	width="40px"
+	style="padding-right:10px;color: white;"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"/>  
+					
+ 
+          
+          
+                   
 <!--
 **LitoSilva/LitoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <a href="https://github.com/LitoSilva">
-  ![snake gif](https://github.com/LigoSilva/LitoSilva/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
