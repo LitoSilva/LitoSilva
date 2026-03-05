@@ -1,6 +1,11 @@
 # Sou <span style="color:red;">joselito da silva </span>   estudante de engenharia de software
 
 ---
+
+
+<ul>
+	<li><a href="https://www.linkedin.com/in/joselito-cavalcanti" target="_blank">Linkedin</a></li>
+</ul>
 ### 💻  Linguagem e Tecnologia
 <img
 	align="left"
