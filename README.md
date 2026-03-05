@@ -6,7 +6,9 @@
 <ul>
 	<li><a href="https://www.linkedin.com/in/joselito-cavalcanti" target="_blank">Linkedin</a></li>
 </ul>
+
 ### 💻  Linguagem e Tecnologia
+
 <img
 	align="left"
 	alt="HTML"
